@@ -11,7 +11,7 @@ Artificial Intelligence & Data Science Undergraduate 🚀
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+  <img src="profile-art.png" width="420" style="border-radius: 12px;" />
 </p>
 
 ---
@@ -69,11 +69,23 @@ and improving consistently through hands-on practice.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balashanmugam30&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balashanmugam30&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<hr/>
+
+<h2>🎞️ Visual Touch</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balashanmugam30&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+</p>
+
+<hr/>
+
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <hr/>
@@ -87,23 +99,15 @@ and improving consistently through hands-on practice.
   <a href="mailto:balashanmugams.07@gmail.com">
     <img height="40" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/>
   </a>
-  <a href="https://www.instagram.com/balaxxh?igsh=MWh1cTd3aTBod3Mycw==" target="_blank">
+  <a href="https://www.instagram.com/balaxxh" target="_blank">
     <img height="40" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
   </a>
-  <a href="https://x.com/balaxxh?t=XYikqSfVSG7mpQKNVmcQ2Q&s=09" target="_blank">
+  <a href="https://x.com/balaxxh" target="_blank">
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg"/>
   </a>
 </p>
 
 <hr/>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Balashanmugam30&style=for-the-badge&color=blue" />
